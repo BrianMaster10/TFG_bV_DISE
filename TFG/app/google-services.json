@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020042254283",
+    "project_id": "fir-tfg-victorbrian",
+    "storage_bucket": "fir-tfg-victorbrian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020042254283:android:6e87057f752cc89f87c84e",
+        "android_client_info": {
+          "package_name": "com.example.tfg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5BgEDFv9o9m4z7WPAxD1w3TZLTQMJJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
